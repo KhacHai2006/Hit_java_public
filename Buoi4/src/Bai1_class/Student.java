@@ -1,4 +1,4 @@
-package Bai1trenlop;
+package Bai1_class;
 
 public class Student {
     String name;

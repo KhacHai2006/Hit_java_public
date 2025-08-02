@@ -1,4 +1,4 @@
-package Bai3trenlop;
+package Bai3_class;
 
 public class car {
         String brand;

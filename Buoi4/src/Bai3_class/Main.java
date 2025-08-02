@@ -1,4 +1,4 @@
-package Bai3trenlop;
+package Bai3_class;
 
 public class Main {
     public static void main(String[] args){

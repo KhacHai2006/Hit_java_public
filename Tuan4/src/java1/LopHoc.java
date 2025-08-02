@@ -1,4 +1,4 @@
-package java;
+package java1;
 
 public class LopHoc  {
     public static void main(String[] args){ // dùng protected phải có hàm main
